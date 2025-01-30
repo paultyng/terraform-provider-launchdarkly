@@ -2,6 +2,20 @@
 
 All notable changes to the LaunchDarkly Terraform Provider will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org).
 
+## [2.21.6](https://github.com/launchdarkly/terraform-provider-launchdarkly/compare/v2.21.5...v2.21.6) (2025-01-30)
+
+
+### Bug Fixes
+
+* Add missing changelog entry ([#236](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/236)) ([171d3d6](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/171d3d60b42560a23e3033a324efc07de0016046))
+* add random characters to name that keeps conflicting ([#272](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/272)) ([4d5cd7a](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/4d5cd7a637ec862a6926a30097a9da470cbacfa2))
+* add test for segments with anonymous clauses ([#249](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/249)) ([0274906](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/0274906a3a05dd08f1152517b324ef22e1ec6b7b))
+* Bump golang.org/x/crypto from 0.24.0 to 0.31.0 ([#254](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/254)) ([eaea627](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/eaea6272d3ffa93eddbd5c8c1ac34ba94a00e85c))
+* Bump golang.org/x/net from 0.26.0 to 0.33.0 ([#267](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/267)) ([505712e](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/505712e0bedeb2f6e5a8171403d83f130358d785))
+* update LD API version to 20240415 ([#268](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/268)) ([70bef86](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/70bef8676551150ba3ead5286ea6823d2cff0563))
+* update README.md ([#233](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/233)) ([c51bb25](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/c51bb25c2f04f51d43d0d50346e37aa574269e9f))
+* update release action ([#269](https://github.com/launchdarkly/terraform-provider-launchdarkly/issues/269)) ([dba75fc](https://github.com/launchdarkly/terraform-provider-launchdarkly/commit/dba75fccc94c669cb75f812a70f24a0946c8e8e1))
+
 ## [2.21.5](https://github.com/launchdarkly/terraform-provider-launchdarkly/compare/v2.21.4...v2.21.5) (2025-01-30)
 
 
